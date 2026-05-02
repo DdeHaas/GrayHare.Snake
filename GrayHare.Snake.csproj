@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="GrayHare.GameEngine" Version="0.6.2" />
+    <PackageReference Include="GrayHare.GameEngine" Version="0.7.0" />
   </ItemGroup>
   <ItemGroup>
     <None Update="Assets\**\*">

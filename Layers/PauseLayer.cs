@@ -1,4 +1,4 @@
-using GrayHare.GameEngine.Abstractions;
+using GrayHare.GameEngine;
 using GrayHare.GameEngine.Application;
 using GrayHare.GameEngine.Extensions;
 using GrayHare.GameEngine.Input;
